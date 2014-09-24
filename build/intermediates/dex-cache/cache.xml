@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-6979e8c553add90d6d57a820c61297e057ef25d0.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\classes-6abecfa0e89d45276ddabcde93199c423e08eddb.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\exploded-aar\weiciyuan.libs\slidingmenulibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c91c3ae9cec7ab10498b64f77f8924b110a4fab6"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\classes-6778534655cb2345b07651f9516b59f6a23bebf5.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.2.08\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\classes-9b0ac332c2b1e74edb569532ecc14b3b9f839bec.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\exploded-aar\weiciyuan.libs\showcaseviewlibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e917509792a3df6bedff2d12842a88a5140551de"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\gson-2.2.4-9fd619da2d89035c5e538da1887b4b046d4e1b63.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\classes-051ef09eae1640a9337079d8165def3e2407c780.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-a30e4f5cd2b8d8eba2f4207e681df371b033e4ce.jar"
+        jar="C:\Program Files\Android Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\android-support-v4-d666c044d99f082530a1f50e00d303a20bf68301.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4"/>
+    <item
+        dex="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\build\intermediates\pre-dexed\debug\crashlytics-e8790b7787af9b84eed04c8b4275b7d5b7368bbb.jar"
+        jar="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\crashlytics.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b8189e9eef2f07fae743e05d7fe7e69daebe98d1"/>
+
+</pre-dex-items>

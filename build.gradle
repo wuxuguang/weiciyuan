@@ -6,7 +6,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.6.3+'
+        classpath 'com.android.tools.build:gradle:0.12.2'
     }
 }
 
@@ -14,24 +14,25 @@ apply plugin: 'android'
 
 
 dependencies {
-    compile files('libs/gson-2.2.2.jar')
     compile project(':libs:slidingmenulibrary')
     compile project(':libs:showcaseviewlibrary')
-    compile 'com.google.android.gms:play-services:4.0.30+'
+    compile 'com.google.android.gms:play-services:5.2.08'
 
+    compile files('libs/gson-2.2.4.jar')
+    compile files('libs/crashlytics.jar')
 }
 
 android {
 
-    buildToolsVersion "19"
-    compileSdkVersion 19
+    buildToolsVersion "20"
+    compileSdkVersion 20
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 19
+        targetSdkVersion 20
     }
 
-    target = 'android-19'
+    target = 'android-20'
     sourceSets {
         main {
             manifest {

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\slidingmenulibrary\src\main\assets" />
+        <source path="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\slidingmenulibrary\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\wuxuguang\Documents\GitHub\weiciyuan\libs\slidingmenulibrary\src\debug\assets" />
+    </dataSet>
+
+</merger>

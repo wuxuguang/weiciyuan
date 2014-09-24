@@ -193,13 +193,19 @@ public class BrowserWeiboMsgFragment extends AbstractAppFragment implements IRem
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        try {
-            if (hasGpsInfo()) {
+//        try {
+//            if (hasGpsInfo()) {
+//                MapsInitializer.initialize(getActivity());
+//            }
+//        } catch (GooglePlayServicesNotAvailableException impossible) {
+//                      /* Impossible */
+//            impossible.printStackTrace();
+//        }
+
+               if (hasGpsInfo()) {
                 MapsInitializer.initialize(getActivity());
             }
-        } catch (GooglePlayServicesNotAvailableException impossible) {
-                      /* Impossible */
-        }
+
     }
 
     @Override
